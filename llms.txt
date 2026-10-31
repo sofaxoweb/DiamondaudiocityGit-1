@@ -1,0 +1,103 @@
+# Pitch Detectors
+
+> Free online precision audio suite running 100% client-side in the browser. Zero downloads, no account required, complete privacy with in-browser DSP.
+
+Pitch Detectors provides over 60 browser-based audio tools, calculators, meters, and music theory utilities for audio engineers, producers, musicians, DJs, acousticians, and creators. All digital signal processing (DSP) and file editing occurs locally on your device via the Web Audio API without uploading audio data to any server.
+
+## Core Audio Tool Suites
+
+### DJ & Music Production Tools
+- [BPM Calculator](https://pitchdetectors.com/dj-music-production-tools/bpm-calculator/): Calculate BPM from beat count and elapsed time, determine track lengths, and calculate delay/reverb millisecond timings.
+- [BPM Tap Tempo](https://pitchdetectors.com/dj-music-production-tools/bpm-tap-tempo/): Tap tempo counter with real-time stability metrics to quickly detect any song's tempo.
+- [BPM to Milliseconds](https://pitchdetectors.com/dj-music-production-tools/bpm-to-ms/): Convert BPM into precise millisecond delays, reverbs, pre-delays, and LFO rates across note divisions.
+- [BPM to Speed %](https://pitchdetectors.com/dj-music-production-tools/bpm-to-speed/): Calculate turntable pitch fader percentage changes and speed shifts between tempos.
+- [Song Key Finder](https://pitchdetectors.com/dj-music-production-tools/song-key-finder/): Audio key detection with Camelot wheel notation and harmonic mixing compatibility.
+- [DJ Transition Calculator](https://pitchdetectors.com/dj-music-production-tools/dj-transition-calculator/): Tempo transition planning and harmonic compatibility between tracks.
+- [DJ Set Length Calculator](https://pitchdetectors.com/dj-music-production-tools/dj-set-length-calculator/): Plan DJ sets, track counts, transition times, and slot durations.
+- [Mix Compatibility Checker](https://pitchdetectors.com/dj-music-production-tools/mix-compatibility-checker/): Verify harmonic mixing rules and energy shifts on the Camelot wheel.
+- [Key Transposition](https://pitchdetectors.com/dj-music-production-tools/key-transposition/): Transpose musical keys, chords, and semitones.
+- [Song Length from BPM](https://pitchdetectors.com/dj-music-production-tools/song-length-from-bpm-calculator/): Compute song duration from tempo and bar count.
+- [DJ Production Guides](https://pitchdetectors.com/dj-music-production-tools/guides/): Educational guides on BPM, groove, genre tempo ranges, and manual beatmatching.
+
+### Pitch Detector & Instrument Tuning
+- [Guitar Tuner Online](https://pitchdetectors.com/pitch-detector-tools/guitar-tuner-online/): Real-time microphone chromatic tuner for acoustic guitar, electric guitar, bass, and ukulele in standard and alternate tunings.
+- [Pitch Detector Online](https://pitchdetectors.com/pitch-detector-tools/pitch-detector/): Live pitch detection, frequency in Hertz, closest musical note, and cents of deviation.
+- [Vocal Range Finder](https://pitchdetectors.com/pitch-detector-tools/vocal-range-finder-online/): Find lowest and highest singing notes and classify voice type (Soprano, Mezzo, Alto, Tenor, Baritone, Bass).
+- [Frequency to Note](https://pitchdetectors.com/pitch-detector-tools/frequency-to-note-online/): Convert any frequency (Hz) into scientific pitch notation, musical octave, and cents offset.
+- [Note to Frequency](https://pitchdetectors.com/pitch-detector-tools/note-to-frequency-online/): Look up exact Hz frequencies for every musical note (A4 = 440 Hz or custom reference).
+- [Cents Calculator](https://pitchdetectors.com/pitch-detector-tools/cents-calculator-online/): Calculate pitch intervals, microtonal tuning, and cent deviations between two frequencies.
+- [Harmonic Series Calculator](https://pitchdetectors.com/pitch-detector-tools/harmonic-series-calculator-online/): Calculate overtones, harmonics, and frequencies for any fundamental pitch.
+- [Pitch Shift Calculator](https://pitchdetectors.com/pitch-detector-tools/pitch-shift-calculator/): Calculate semitone shifts, pitch ratios, and playback speed adjustments.
+- [Transpose Calculator](https://pitchdetectors.com/pitch-detector-tools/transpose-calculator-online/): Transpose keys, chords, and musical notation across semitone intervals.
+
+### Music Theory & Composition
+- [Online Metronome](https://pitchdetectors.com/music-theory-tools/online-metronome/): Visual and acoustic digital metronome with subdivision, tap tempo, and accent patterns.
+- [Scale Finder](https://pitchdetectors.com/music-theory-tools/scale-finder/): Comprehensive musical scale and mode explorer across all 12 keys.
+- [Chord Identifier](https://pitchdetectors.com/music-theory-tools/chord-identifier/): Identify chord names, qualities, and inversions from selected musical notes.
+- [Chord Progression Generator](https://pitchdetectors.com/music-theory-tools/chord-progression-generator/): Interactive chord progression builder with harmonic analysis.
+- [Melody Generator](https://pitchdetectors.com/music-theory-tools/melody-generator/): Generate musical melodic ideas, motifs, and hooks in chosen scales.
+- [Interval Calculator](https://pitchdetectors.com/music-theory-tools/interval-calculator/): Calculate musical intervals, semitone distances, and pitch relationships.
+- [Rhythm Pattern Maker](https://pitchdetectors.com/music-theory-tools/rhythm-pattern-maker/): Interactive drum sequencer and polyrhythmic pattern designer.
+
+### Sound Analysis & Audio Metering
+- [Decibel Meter Online](https://pitchdetectors.com/sound-analysis-tools/decibel-meter/): Real-time microphone SPL decibel meter with peak, average, and noise level alerts.
+- [Loudness Meter](https://pitchdetectors.com/sound-analysis-tools/loudness-meter/): ITU-R BS.1770 compliant LUFS (integrated, momentary, short-term) and RMS loudness analyzer.
+- [Audio to Waveform Visualizer](https://pitchdetectors.com/sound-analysis-tools/audio-to-waveform-visualizer/): Render interactive high-resolution audio waveforms from uploaded sound files.
+- [Microphone Test Online](https://pitchdetectors.com/sound-analysis-tools/microphone-test/): Test microphone input, frequency response, distortion, and signal clarity.
+
+### Loudspeaker Engineering & Acoustic Tools
+- [Speaker Wattage Calculator](https://pitchdetectors.com/speaker-tools/speaker-wattage-calculator/): Size amplifier power based on speaker sensitivity, distance, and target SPL.
+- [Speaker Impedance Calculator](https://pitchdetectors.com/speaker-tools/speaker-impedance-calculator/): Series, parallel, and series-parallel total impedance (ohms) for multi-driver setups.
+- [Amplifier Power Calculator](https://pitchdetectors.com/speaker-tools/amplifier-power-calculator/): Match amplifier RMS wattage to speaker power ratings with safe headroom.
+- [SPL Calculator](https://pitchdetectors.com/speaker-tools/spl-calculator/): Calculate continuous and peak sound pressure level at listening distances.
+- [SPL per Watt Calculator](https://pitchdetectors.com/speaker-tools/spl-per-watt/): Determine loudspeaker efficiency and decibel output per watt input.
+- [Sound Distance Drop Calculator](https://pitchdetectors.com/speaker-tools/sound-distance-drop-calculator/): Inverse square law attenuation across open air and room conditions.
+- [Speaker Placement Calculator](https://pitchdetectors.com/speaker-tools/speaker-placement-calculator/): Calculate stereo equilateral triangle speaker and listener placement.
+- [Room Acoustics Calculator](https://pitchdetectors.com/speaker-tools/room-acoustics-calculator/): Calculate room RT60 reverberation time via Sabine and Eyring formulas.
+- [Room Modes Calculator](https://pitchdetectors.com/speaker-tools/room-modes-calculator/): Calculate axial, tangential, and oblique standing wave room resonance modes.
+- [Room Volume Calculator](https://pitchdetectors.com/speaker-tools/room-volume-calculator/): Calculate room volume and determine bass response suitability.
+- [Ported Enclosure Calculator](https://pitchdetectors.com/speaker-tools/ported-enclosure-calculator/): Calculate vented enclosure volume and Helmholtz port tuning frequency.
+- [Sealed Box Calculator](https://pitchdetectors.com/speaker-tools/sealed-box-calculator/): Design sealed enclosures using driver Thiele/Small parameters (Fs, Qts, Vas).
+- [Bass Reflex Port Length Calculator](https://pitchdetectors.com/speaker-tools/bass-reflex-port-length-calculator/): Calculate port tube length with aerodynamic end corrections.
+- [Crossover Frequency Calculator](https://pitchdetectors.com/speaker-tools/crossover-frequency-calculator/): Calculate inductor (mH) and capacitor (µF) filter components.
+- [Crossover Slope Calculator](https://pitchdetectors.com/speaker-tools/crossover-slope-calculator/): Compare 1st through 4th order filter slopes (6dB to 24dB/octave).
+- [Passive Crossover Calculator](https://pitchdetectors.com/speaker-tools/passive-crossover-calculator/): Multi-way passive loudspeaker crossover design tool.
+- [Speaker Wire Gauge Calculator](https://pitchdetectors.com/speaker-tools/speaker-wire-gauge-calculator/): Calculate minimum AWG wire size to keep cable resistance losses under 5%.
+- [Speaker Voltage Drop Calculator](https://pitchdetectors.com/speaker-tools/speaker-voltage-drop-calculator/): Calculate voltage and power loss over speaker cable distances.
+- [Subwoofer Enclosure Tuning Calculator](https://pitchdetectors.com/speaker-tools/subwoofer-enclosure-tuning-calculator/): Subwoofer box tuning frequency and port dimensions.
+- [Subwoofer Impedance Matching Calculator](https://pitchdetectors.com/speaker-tools/subwoofer-impedance-matching-calculator/): Match dual voice coil (DVC) subwoofers to monoblock amplifiers.
+- [Speaker Load Balancer](https://pitchdetectors.com/speaker-tools/speaker-load-balancer/): Multi-speaker load balancing across amplifier channels.
+- [Total Harmonic Distortion (THD) Calculator](https://pitchdetectors.com/speaker-tools/total-harmonic-distortion-thd-calculator/): Calculate THD percentage from fundamental and harmonic amplitudes.
+- [Zobel Network Calculator](https://pitchdetectors.com/speaker-tools/zobel-network-calculator/): Impedance compensation circuit calculation for speaker voice coils.
+- [Speaker Phase Alignment Calculator](https://pitchdetectors.com/speaker-tools/speaker-phase-alignment-calculator/): Calculate phase delay and physical alignment distances between drivers.
+- [Speaker Angle Calculator](https://pitchdetectors.com/speaker-tools/speaker-angle-calculator/): Calculate toe-in angles for studio monitors and hi-fi speakers.
+- [Frequency Response Calculator](https://pitchdetectors.com/speaker-tools/frequency-response-calculator/): Theoretical speaker output curve calculation.
+- [Impedance Frequency Plotter](https://pitchdetectors.com/speaker-tools/impedance-frequency-plotter-advanced/): Advanced loudspeaker impedance curve visualization.
+- [Sound Reflection & Absorption Calculator](https://pitchdetectors.com/speaker-tools/sound-reflection-absorption-calculator/): Calculate acoustic panel coverage and sabin absorption.
+
+### Audio Editing & Processing Tools
+- [Audio Trimmer](https://pitchdetectors.com/audio-editing-tools/audio-trimmer/): Cut, slice, and trim audio files with millisecond precision in-browser.
+- [Audio Merger](https://pitchdetectors.com/audio-editing-tools/audio-merger/): Combine multiple audio tracks into a single seamless output file.
+- [Audio Normalizer](https://pitchdetectors.com/audio-editing-tools/audio-normalizer/): Normalize audio to peak (−1 dBFS), RMS (−20 dB), or broadcast LUFS (−14 LUFS) targets.
+- [Audio Speed Changer](https://pitchdetectors.com/audio-editing-tools/audio-speed-changer/): Adjust playback speed with or without pitch preservation.
+- [Loop Generator](https://pitchdetectors.com/audio-editing-tools/loop-generator/): Create seamless repeating audio loops for beatmaking and background music.
+- [Audio Volume Booster](https://pitchdetectors.com/audio-editing-tools/Audio-Volume-Booster.html): Boost quiet sound recordings up to 400% with anti-clipping normalization.
+- [Audio Reverser](https://pitchdetectors.com/audio-editing-tools/reverse-audio.html): Reverse sound files for backward effects and creative production.
+
+### Audiobook Tools
+- [Audiobook Speed Calculator](https://pitchdetectors.com/audiobook/audiobook-speed-calculator/): Calculate listening time saved across playback speeds (1.25x to 3.0x).
+- [Audiobook Length Calculator](https://pitchdetectors.com/audiobook/audiobook-length-calculator/): Estimate audiobook finished duration from book word count and narration pace.
+- [Audiobook Progress Calculator](https://pitchdetectors.com/audiobook/audiobook-progress-calculator/): Track audiobook completion percentage, remaining listening time, and finish dates.
+- [Audiobook Percentage Calculator](https://pitchdetectors.com/audiobook/audiobook-percentage-calculator/): Convert current timestamp into exact progress percentage.
+- [Audiobook Price Calculator](https://pitchdetectors.com/audiobook/audiobook-price-calculator/): Calculate cost per hour between subscription credits and retail purchases.
+
+### Spanish Audio Suite (Herramientas en Español)
+- [Suite de Detección de Tono](https://pitchdetectors.com/sp/herramientas-de-deteccion-de-tono/): Afinador de guitarra, detector de tono, rango vocal, y convertidores de frecuencia.
+- [Suite de Teoría Musical](https://pitchdetectors.com/sp/herramientas-de-teoria-musical/): Metrónomo online, buscador de escalas, generador de melodías, acordes, y ritmos.
+
+## Organization & Contact
+- Website: https://pitchdetectors.com/
+- About: https://pitchdetectors.com/about.html
+- Contact: https://pitchdetectors.com/contact.html
+- Privacy: https://pitchdetectors.com/privacy-policy.html
+- Terms: https://pitchdetectors.com/terms-and-conditions.html
