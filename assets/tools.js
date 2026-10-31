@@ -8,9 +8,9 @@ const allAudioTools = [
     { name: 'BPM Tap Tempo', url: '/dj-music-production-tools/bpm-tap-tempo/', category: 'DJ & Production', icon: 'bi-hand-index', desc: 'Tap along to any song to detect BPM instantly' },
     { name: 'BPM to Milliseconds', url: '/dj-music-production-tools/bpm-to-ms/', category: 'DJ & Production', icon: 'bi-clock', desc: 'Convert tempo into ms delays and reverbs' },
     { name: 'BPM to Speed %', url: '/dj-music-production-tools/bpm-to-speed/', category: 'DJ & Production', icon: 'bi-arrow-repeat', desc: 'Pitch and speed percentage converter' },
-    { name: 'Song Length from BPM', url: '/dj-music-production-tools/song-length-from-bpm-calculator.html', category: 'DJ & Production', icon: 'bi-stopwatch', desc: 'Calculate track duration from bars and tempo' },
+    { name: 'Song Length from BPM', url: '/dj-music-production-tools/song-length-from-bpm-calculator/', category: 'DJ & Production', icon: 'bi-stopwatch', desc: 'Calculate track duration from bars and tempo' },
     { name: 'Song Key Finder', url: '/dj-music-production-tools/song-key-finder/', category: 'DJ & Production', icon: 'bi-key', desc: 'Detect musical key and harmonic scale' },
-    { name: 'BPM Pitch Calculator', url: '/BPM-Pitch-Calculator.html', category: 'DJ & Production', icon: 'bi-sliders', desc: 'Calculate pitch shifts and semitone offsets' },
+    { name: 'Pitch Shift Calculator', url: '/pitch-detector-tools/pitch-shift-calculator/', category: 'DJ & Production', icon: 'bi-sliders', desc: 'Calculate pitch shifts and semitone offsets' },
     { name: 'DJ Transition Calculator', url: '/dj-music-production-tools/dj-transition-calculator/', category: 'DJ & Production', icon: 'bi-shuffle', desc: 'Harmonic mixing and tempo transition helper' },
     { name: 'DJ Set Length Calculator', url: '/dj-music-production-tools/dj-set-length-calculator/', category: 'DJ & Production', icon: 'bi-clock-history', desc: 'Plan set timing, tracks, and transitions' },
     { name: 'Mix Compatibility Checker', url: '/dj-music-production-tools/mix-compatibility-checker/', category: 'DJ & Production', icon: 'bi-check2-circle', desc: 'Check Camelot wheel compatibility' },
@@ -28,7 +28,6 @@ const allAudioTools = [
     { name: 'Guitar Tuner', url: '/pitch-detector-tools/guitar-tuner-online/', category: 'Pitch Detector', icon: 'bi-music-note-beamed', desc: 'Accurate microphone guitar and instrument tuner' },
     { name: 'Pitch Detector Online', url: '/pitch-detector-tools/pitch-detector/', category: 'Pitch Detector', icon: 'bi-soundwave', desc: 'Live pitch detection and note analysis' },
     { name: 'Vocal Range Finder', url: '/pitch-detector-tools/vocal-range-finder-online/', category: 'Pitch Detector', icon: 'bi-mic', desc: 'Find your lowest and highest singing notes' },
-    { name: 'Vocal Range Test', url: '/pitch-detector-tools/vocal-range-test.html', category: 'Pitch Detector', icon: 'bi-mic-fill', desc: 'Interactive voice classification tester' },
     { name: 'Frequency to Note', url: '/pitch-detector-tools/frequency-to-note-online/', category: 'Pitch Detector', icon: 'bi-arrow-left-right', desc: 'Convert Hertz to exact musical pitch & cents' },
     { name: 'Note to Frequency', url: '/pitch-detector-tools/note-to-frequency-online/', category: 'Pitch Detector', icon: 'bi-calculator', desc: 'Calculate standard A4=440Hz Hz frequencies' },
     { name: 'Cents Calculator', url: '/pitch-detector-tools/cents-calculator-online/', category: 'Pitch Detector', icon: 'bi-rulers', desc: 'Microtonal and tuning offset calculator' },
@@ -39,7 +38,7 @@ const allAudioTools = [
     // Sound Analysis
     { name: 'Decibel Meter', url: '/sound-analysis-tools/decibel-meter/', category: 'Sound Analysis', icon: 'bi-volume-up', desc: 'Live microphone sound pressure level meter' },
     { name: 'Loudness Meter', url: '/sound-analysis-tools/loudness-meter/', category: 'Sound Analysis', icon: 'bi-speedometer', desc: 'LUFS & RMS loudness measurement' },
-    { name: 'Waveform Visualizer', url: '/sound-analysis-tools/audio-to-waveform-visualizer.html', category: 'Sound Analysis', icon: 'bi-activity', desc: 'Convert audio into responsive waveforms' },
+    { name: 'Waveform Visualizer', url: '/sound-analysis-tools/audio-to-waveform-visualizer/', category: 'Sound Analysis', icon: 'bi-activity', desc: 'Convert audio into responsive waveforms' },
     { name: 'Microphone Test', url: '/sound-analysis-tools/microphone-test/', category: 'Sound Analysis', icon: 'bi-mic', desc: 'Test mic clarity, frequency, and distortion' },
 
     // Audio Editing
